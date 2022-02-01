@@ -3,8 +3,6 @@
 
 import numpy as np
 
-numbers_list=range(101)
-
 def random_predict(number: int = 1) -> int:
     """guess the right number with binary search 
 
