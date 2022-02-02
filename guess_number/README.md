@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,6 @@ Binary search
 ### Краткая информация о данных
 we get random number in Integer and we return mean number to guess out of 1000 tries in Integer
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -39,16 +38,11 @@ Realize binary search algorithm
 Make mean numbers of guess counter
 Get rezults
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Результаты:  
 We came up to 5 mean number of tries to guess the right number
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
 
 ### Выводы:  
 Binary search algorithm is very good, when it needs to find a number in sorted array
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
