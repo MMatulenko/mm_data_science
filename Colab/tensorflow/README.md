@@ -1,1 +1,1 @@
-This dir has programms associated with tensorflow
+In this directory there are programms associated with tensorflow
