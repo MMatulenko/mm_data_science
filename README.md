@@ -1,7 +1,5 @@
-# Data_science
+# Data Science Portfolio
 
-Hello! This is my works in machine learning.
+Welcome to my collection of machine learning projects.
 
-Some of the models use sklearn datasets, some of them use datasets from Data folder.
-
-In folder Colab you can find works, that are done in google colab notebook.
+This portfolio showcases models that utilize datasets from both sklearn and a dedicated Data folder. For projects executed within Google Colab, please refer to the Colab directory.
